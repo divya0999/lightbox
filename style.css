@@ -1,0 +1,18 @@
+body {
+  padding:0;
+  margin:0;
+  background: linear-gradient(to right,#009FFF, #ec2F4B);
+  color:white !important;
+    }
+
+.col-md-4 img {
+  width:100%;
+  object-fit: cover;
+  padding-top:20px;
+height: 39vh;
+}
+
+img:hover {
+  transform: scale(1.1);
+  transition:0.8s;
+}
